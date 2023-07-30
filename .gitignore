@@ -1,2 +1,10 @@
-node_modules
-.env
+# Arquivos e pastas gerados pelo Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos gerados pelo editor ou sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos e pastas que você queira ignorar
